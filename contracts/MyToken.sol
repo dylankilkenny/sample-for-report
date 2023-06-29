@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Supply.sol";
 contract MyToken is ERC1155, ERC1155Supply {
     constructor() ERC1155("") {}
 
-    // The following functions are overrides required by Solidity.
+    // The following functions are overrides required by Solidity. 123
 
     function _beforeTokenTransfer(address operator, address from, address to, uint256[] memory ids, uint256[] memory amounts, bytes memory data)
         internal
