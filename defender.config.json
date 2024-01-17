@@ -1,9 +1,9 @@
 {
   "x": {
     "x": true,
-    "scan_directories": ["contracts/MyTokenUpgradeable.sol"]
+    "x": ["contracts/MyTokenUpgradeable.sol"]
   },
-  "dependency_checke": {
-    "enabled": true
+  "x": {
+    "x": true
   }
 }
