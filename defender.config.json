@@ -1,9 +1,9 @@
 {
   "contract_inspector": {
-    "enabled": true,
+    "enabled": false,
     "scan_directories": ["contracts"]
   },
   "dependency_checker": {
-    "enabled": false
+    "enabled": true
   }
 }
